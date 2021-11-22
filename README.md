@@ -8,7 +8,7 @@ This project was built with [buildspace](https://github.com/buildspace) <3
 
 ### Homepage
 
-![Homepage](/images/HomePage.png 'Homepage')
+![Homepage](/images/Homepage.png 'Homepage')
 
 ### After Minting
 
