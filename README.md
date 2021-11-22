@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+# Basic NFT based Game
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a website where the user can mint NFTs 🔥 all the NFTs are minted and stored dynamically on-chain 😱
 
-Try running some of the following tasks:
+This project was built with [buildspace](https://github.com/buildspace) <3
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+### [Live Demo](https://kn0wn-un.github.io/nfts-website/)
+
+### Homepage
+
+![Homepage](/images/HomePage.png 'Homepage')
+
+### After Minting
+
+![After Minting](/images/Minted.png 'After Minting')
