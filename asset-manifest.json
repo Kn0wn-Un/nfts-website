@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nfts-website/static/css/main.784755ce.chunk.css",
+    "main.js": "/nfts-website/static/js/main.df6a72ef.chunk.js",
+    "main.js.map": "/nfts-website/static/js/main.df6a72ef.chunk.js.map",
+    "runtime-main.js": "/nfts-website/static/js/runtime-main.12d8334c.js",
+    "runtime-main.js.map": "/nfts-website/static/js/runtime-main.12d8334c.js.map",
+    "static/js/2.6b187276.chunk.js": "/nfts-website/static/js/2.6b187276.chunk.js",
+    "static/js/2.6b187276.chunk.js.map": "/nfts-website/static/js/2.6b187276.chunk.js.map",
+    "index.html": "/nfts-website/index.html",
+    "static/css/main.784755ce.chunk.css.map": "/nfts-website/static/css/main.784755ce.chunk.css.map",
+    "static/js/2.6b187276.chunk.js.LICENSE.txt": "/nfts-website/static/js/2.6b187276.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.d89d9a86.svg": "/nfts-website/static/media/twitter-logo.d89d9a86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12d8334c.js",
+    "static/js/2.6b187276.chunk.js",
+    "static/css/main.784755ce.chunk.css",
+    "static/js/main.df6a72ef.chunk.js"
+  ]
+}
