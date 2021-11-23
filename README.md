@@ -1,4 +1,4 @@
-# Basic NFT based Game
+# Neon Sun NFT Collection
 
 This project demonstrates a website where the user can mint NFTs 🔥 all the NFTs are minted and stored dynamically on-chain 😱
 
